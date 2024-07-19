@@ -1,0 +1,8 @@
+{
+    "name": "Hello World Plugin",
+    "description": "A simple Hello World plugin for WHMCS",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "license": "MIT",
+    "fields": []
+}
